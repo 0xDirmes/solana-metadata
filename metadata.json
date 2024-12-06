@@ -1,0 +1,6 @@
+{
+  "name": "Dirmes Token",
+  "symbol": "DIR",
+  "description": "Dirmes token is a test token to make tokens that won't be test tokens",
+  "image": "https://raw.githubusercontent.com/0xDirmes/solana-metadata/b6b19e504a4877cc2bfb68ae71714769507ec7bc/dirmes_resized.jpg"
+}
